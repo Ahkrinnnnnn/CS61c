@@ -1,4 +1,5 @@
-1.grep -r
-2.ps aux
-3.kill
-4.diff
+1.ls -l
+2.grep -r
+3.ps aux
+4.kill
+5.diff
